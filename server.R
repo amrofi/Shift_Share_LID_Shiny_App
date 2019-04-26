@@ -8,7 +8,7 @@ require(plm)
 
 #setwd("~/Dropbox/Phd Illinois/Work with Pedro/Shiny/Shift Share/shift_share/shift_share_v2/")
 #load("~/Dropbox/Phd\ Illinois/Work\ with\ Pedro/Shiny/Shift\ Share/shift_share/shift_share_v2/Shift_Share_Data_Prov_2017.Rda")
-load("Shift_Share_Data_Prov_2017_2.Rda")
+load("Shift_Share_Data_Prov_2019.Rda")
 
 
 
